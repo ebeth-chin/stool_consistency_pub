@@ -1,0 +1,11 @@
+Dummy data for stool consistency manuscript. Be sure to change file names in any lib files or ipynb files if using with these files. 
+
+
+File Name & Description:
+-------------------------
+
+1. mod1_dummy.csv : x features 
+2. outcomeclass_dummy.csv : y variable for predicting the multi-class outcome stool class (1 = hard, 2 = normal, 3 = soft)   
+3. outcomebinary_dummy.csb: y variable for predicting the binary outcomes (1 = hard, normal, or soft, 0 = not hard, not normal, or not soft) 
+4. numeric_features.csv : numeric x features 
+5. categorical_features.csv: categorical x features 
